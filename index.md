@@ -26,7 +26,11 @@ We present a unified framework aimed at improving the diffusion priors on 3D gen
 
 ## Key Ideas
 1. 
-2. 
+
+
+
+
+
 ![Demo](/static/image/demo.PNG)
 
 *Figure 1: Potential use cases of our proposed diffusion prior. Although we mainly target 3D generation, our method can be used on a wide range of applications, including 2D generation and editing, 3D image-guided generation and 3D text-guided generation.*
