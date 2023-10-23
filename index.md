@@ -37,11 +37,11 @@ We present a unified framework aimed at improving the diffusion priors on 3D gen
 
 ## Table: Performance on T3Bench
 
-| Computable Numbers | Non-Computable Numbers |
-|-------------------|-----------------------|
-| Rational numbers, e.g., 1/2, 3/4 | Transcendental numbers, e.g., π, e |
-| Algebraic numbers, e.g., √2, ∛3 | Non-algebraic numbers, e.g., √2 + √3 |
-| Numbers with finite decimal representations | Numbers with infinite, non-repeating decimal representations |
+|          Dataset         | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D | SJC  | ProlificDreamer | LODS (Embedding) | LODS (LoRA) |
+|:------------------------:|:-----------:|:-------:|------------|------------|------|-----------------|------------------|-------------|
+|       Single Object      |     24.4    |   37.0  | 33.1       | 26.4       | 24.7 | 49.4            | **55.1**         |             |
+| Single with Surroundings |     24.6    |   35.4  | 30.6       | 27.0       | 19.8 | 44.8            |                  |             |
+|     Multiple Objects     |     16.1    |   25.7  | 20.6       | 18.5       | 11.7 | 35.8            |                  |             |
 
 We achieve state-of-the-art performance on T3Bench.
 
