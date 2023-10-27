@@ -30,11 +30,12 @@ We present a unified framework aimed at improving the diffusion priors on 3D gen
 
 ## Table: Performance on T3Bench
 
-|          Dataset         | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D | SJC  | ProlificDreamer | LODS (Embedding) | LODS (LoRA) |
-|:------------------------:|:-----------:|:-------:|------------|------------|------|-----------------|------------------|-------------|
-|       Single Object      |     24.4    |   37.0  | 33.1       | 26.4       | 24.7 | 49.4            | **55.1**         |             |
-| Single with Surroundings |     24.6    |   35.4  | 30.6       | 27.0       | 19.8 | 44.8            |                  |             |
-|     Multiple Objects     |     16.1    |   25.7  | 20.6       | 18.5       | 11.7 | 35.8            |                  |             |
+|     Dataset      | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D | SJC  | ProlificDreamer | LODS (Embedding) | LODS (LoRA) |
+|:----------------:|:-----------:|:-------:|------------|------------|------|-----------------|------------------|-------------|
+|  Single Object   |    24.4     |  37.0   | 33.1       | 26.4       | 24.7 | 49.4            | **52.3**         |             |
+|   Surroundings   |    24.6     |  35.4   | 30.6       | 27.0       | 19.8 | 44.8            | **49.8**         |             |
+| Multiple Objects |    16.1     |  25.7   | 20.6       | 18.5       | 11.7 | 35.8            | **39.7**         |             |
+|     Average      |    21.7     |  32.7   | 28.1       | 24.0       | 18.7 | 43.3            | **47.3**         |             |
 
 We achieve state-of-the-art performance on T3Bench.
 
