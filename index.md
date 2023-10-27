@@ -4,9 +4,9 @@ permalink: /
 
 title: Learn to Optimize Denoising Scores - A Unified and Improved Diffusion Prior for 3D Generation
 authors:
-    Xiaofeng Yang, Yiwen Chen, Cheng Chen, Fayao Liu and Guosheng Lin
+    .
 affiliations:
-    Nanyang Technological University
+    .
 paper: https://huggingface.co/docs/datasets
 video: https://huggingface.co/docs/datasets
 code: https://huggingface.co/docs/datasets
