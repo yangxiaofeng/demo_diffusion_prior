@@ -8,9 +8,7 @@ authors:
 affiliations:
     <sup>1</sup>Nanyang Technological University, <sup>2</sup>OPPO US Research Center, <sup>3</sup>A*STAR, Singapore
 paper: https://huggingface.co/docs/datasets
-video: https://huggingface.co/docs/datasets
-code: https://huggingface.co/docs/datasets
-data: https://huggingface.co/docs/datasets
+code: https://github.com/yangxiaofeng/LODS
 ---
 
 <div class="columns is-centered has-text-centered">
