@@ -4,7 +4,7 @@ permalink: /
 
 title: Learn to Optimize Denoising Scores for 3D Generation - A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting
 authors:
-    Xiaofeng Yang<sup>1</sup>, Yiwen Chen<sup>1</sup>, Cheng Chen<sup>1</sup>, Chi Zhang<sup>1</sup>, Yi Xu<sup>2</sup>, Xulei Yang<sup>3</sup>, Fayao Liu<sup>3</sup> and Guosheng Lin<sup>1</sup>
+    Xiaofeng Yang<sup>*</sup><sup>1</sup>, Yiwen Chen<sup>*</sup><sup>1</sup>, Cheng Chen<sup>1</sup>, Chi Zhang<sup>1</sup>, Yi Xu<sup>2</sup>, Xulei Yang<sup>3</sup>, Fayao Liu<sup>3</sup> and Guosheng Lin<sup>1</sup>
 affiliations:
     <sup>1</sup>Nanyang Technological University, <sup>2</sup>OPPO US Research Center, <sup>3</sup>A*STAR, Singapore
 paper: https://huggingface.co/docs/datasets
@@ -75,8 +75,8 @@ We achieve state-of-the-art performance on T3Bench.
 ## Citation
 ```
 @article{yang2023lods,
-  title={Learn to Optimize Denoising Scores - A Unified and Improved Diffusion Prior for 3D Generation},
-  author={Xiaofeng Yang, Yiwen Chen, Cheng Chen, Fayao Liu and Guosheng Lin},
+  title={Learn to Optimize Denoising Scores for 3D Generation},
+  author={Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu and Guosheng Lin},
   journal={Arxiv},
   year={2023}
 }
