@@ -59,5 +59,10 @@ We achieve state-of-the-art performance on T3Bench.
 *A vintage porcelain doll with a frilly dress*
 ## Citation
 ```
-.
+@article{yang2023lods,
+  title={Learn to Optimize Denoising Scores - A Unified and Improved Diffusion Prior for 3D Generation},
+  author={Xiaofeng Yang, Yiwen Chen, Cheng Chen, Fayao Liu and Guosheng Lin},
+  journal={Arxiv},
+  year={2023}
+}
 ```
