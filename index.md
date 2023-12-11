@@ -35,39 +35,53 @@ We achieve state-of-the-art performance on T3Bench.
 
 ## Generation Results (NeRF)
 
-
-![](/static/image/demo_gif1.gif)
-
-*A red and white lighthouse on a cliff*
-
-![](/static/image/demo_gif2.gif)
-
-*An intricately-carved wooden chess set*
-
-![](/static/image/demo_gif3.gif)
-
-*A cactus with pink flowers*
-
-![](/static/image/demo_gif4.gif)
-
-*A vintage porcelain doll with a frilly dress*
+<table style="border: none;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif1.gif" alt="A red and white lighthouse on a cliff" />
+      <br><em>A red and white lighthouse on a cliff</em>
+    </td>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif2.gif" alt="An intricately-carved wooden chess set" />
+      <br><em>An intricately-carved wooden chess set</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif3.gif" alt="A cactus with pink flowers" />
+      <br><em>A cactus with pink flowers</em>
+    </td>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif4.gif" alt="A vintage porcelain doll with a frilly dress" />
+      <br><em>A vintage porcelain doll with a frilly dress</em>
+    </td>
+  </tr>
+</table>
 
 ## Generation Results (3D Gaussian Splatting)
-![](/static/image/demo_gif_gs_1.gif)
 
-*A DSLR image of a hamburger*
-
-![](/static/image/demo_gif_gs_2.gif)
-
-*A pair of worn-in blue jeans*
-
-![](/static/image/demo_gif_gs_3.gif)
-
-*A worn-out leather briefcase*
-
-![](/static/image/demo_gif_gs_4.gif)
-
-*An ivory candlestick holder*
+<table style="border: none;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif_gs_1.gif" alt="A DSLR image of a hamburger" />
+      <br><em>A DSLR image of a hamburger</em>
+    </td>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif_gs_2.gif" alt="A pair of worn-in blue jeans" />
+      <br><em>A pair of worn-in blue jeans</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif_gs_3.gif" alt="A worn-out leather briefcase" />
+      <br><em>A worn-out leather briefcase</em>
+    </td>
+    <td style="text-align: center;">
+      <img src="static/image/demo_gif_gs_4.gif" alt="An ivory candlestick holder" />
+      <br><em>An ivory candlestick holder</em>
+    </td>
+  </tr>
+</table>
 
 
 ## Citation
