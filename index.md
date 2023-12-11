@@ -75,7 +75,7 @@ We achieve state-of-the-art performance on T3Bench.
 @article{yang2023lods,
   title={Learn to Optimize Denoising Scores for 3D Generation},
   author={Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu and Guosheng Lin},
-  journal={Arxiv},
+  journal={arXiv:2312.04820},
   year={2023}
 }
 ```
