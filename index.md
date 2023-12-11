@@ -24,12 +24,13 @@ We propose a unified framework aimed at enhancing the diffusion priors for 3D ge
 
 ## Performance on T3Bench (with NeRF)
 
-|   Dataset    | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D | SJC  | ProlificDreamer | LODS (Emb) | LODS (LoRA) |
-|:------------:|:-----------:|:-------:|------------|------------|------|-----------------|------------|-------------|
-| Single Obj.  |    24.4     |  37.0   | 33.1       | 26.4       | 24.7 | 49.4            | **52.3**   | 51.3        |
-| Surroundings |    24.6     |  35.4   | 30.6       | 27.0       | 19.8 | 44.8            | **49.8**   | 47.3        |
-| Multi. Obj.  |    16.1     |  25.7   | 20.6       | 18.5       | 11.7 | 35.8            | **39.7**   | 37.5        |
-|   Average    |    21.7     |  32.7   | 28.1       | 24.0       | 18.7 | 43.3            | **47.3**   | 45.4        |
+
+| Dataset      | Dreamfusion | Magic3D | LatentNeRF | Fantasia3D | SJC  | ProlificDreamer | LODS Emb. | LODS LoRA |
+|:------------:|:-----------:|:-------:|:----------:|:----------:|:----:|:---------------:|:---------:|:---------:|
+| Single Obj.  |     24.4    |   37.0  |    33.1    |    26.4    | 24.7 |       49.4      |  **52.3** |    51.3   |
+| Surroundings |     24.6    |   35.4  |    30.6    |    27.0    | 19.8 |       44.8      |  **49.8** |    47.3   |
+| Multi. Obj.  |     16.1    |   25.7  |    20.6    |    18.5    | 11.7 |       35.8      |  **39.7** |    37.5   |
+| Average      |     21.7    |   32.7  |    28.1    |    24.0    | 18.7 |       43.3      |  **47.3** |    45.4   |
 
 We achieve state-of-the-art performance on T3Bench.
 
