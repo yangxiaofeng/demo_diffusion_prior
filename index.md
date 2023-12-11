@@ -34,91 +34,40 @@ We propose a unified framework aimed at enhancing the diffusion priors for 3D ge
 We achieve state-of-the-art performance on T3Bench.
 
 ## Generation Results (NeRF)
-<div style="text-align:center">
 
-<span style="width:47%;display:inline-block">
 
 ![](/static/image/demo_gif1.gif)
 
 *A red and white lighthouse on a cliff*
 
-</span>
-
-<span style="width:47%;display:inline-block">
-
 ![](/static/image/demo_gif2.gif)
 
 *An intricately-carved wooden chess set*
-
-</span>
-
-</div>
-
-<div style="text-align:center">
-
-<span style="width:47%;display:inline-block">
 
 ![](/static/image/demo_gif3.gif)
 
 *A cactus with pink flowers*
 
-</span>
-
-<span style="width:47%;display:inline-block">
-
 ![](/static/image/demo_gif4.gif)
 
 *A vintage porcelain doll with a frilly dress*
 
-</span>
-
-</div>
-
-
-
 ## Generation Results (3D Gaussian Splatting)
-
-<div style="text-align:center">
-
-<span style="width:47%;display:inline-block">
-
 ![](/static/image/demo_gif_gs_1.gif)
 
 *A DSLR image of a hamburger*
-
-</span>
-
-<span style="width:47%;display:inline-block">
 
 ![](/static/image/demo_gif_gs_2.gif)
 
 *A pair of worn-in blue jeans*
 
-</span>
-
-</div>
-
-<div style="text-align:center">
-
-<span style="width:47%;display:inline-block">
-
 ![](/static/image/demo_gif_gs_3.gif)
 
 *A worn-out leather briefcase*
 
-</span>
-
-<span style="width:47%;display:inline-block">
-
 ![](/static/image/demo_gif_gs_4.gif)
 
 *An ivory candlestick holder*
-
-</span>
-
-</div>
-
-
 
 
 ## Citation
