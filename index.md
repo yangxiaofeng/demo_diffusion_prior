@@ -7,7 +7,7 @@ authors:
     Xiaofeng Yang<sup>*</sup><sup>1</sup>, Yiwen Chen<sup>*</sup><sup>1</sup>, Cheng Chen<sup>1</sup>, Chi Zhang<sup>1</sup>, Yi Xu<sup>2</sup>, Xulei Yang<sup>3</sup>, Fayao Liu<sup>3</sup> and Guosheng Lin<sup>1</sup>
 affiliations:
     <sup>1</sup>Nanyang Technological University, <sup>2</sup>OPPO US Research Center, <sup>3</sup>A*STAR, Singapore
-paper: https://huggingface.co/docs/datasets
+paper: https://arxiv.org/abs/2312.04820
 code: https://github.com/yangxiaofeng/LODS
 ---
 
