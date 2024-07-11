@@ -16,6 +16,7 @@ code: https://github.com/yangxiaofeng/LODS
         <h2>Abstract</h2>
         <div class="content has-text-justified">
 In this paper, we propose a unified framework aimed at enhancing the diffusion priors for 3D generation tasks. Despite the critical importance of these tasks, existing methodologies often struggle to generate high-caliber results. We begin by examining the inherent limitations in previous diffusion priors. We identify a divergence between the diffusion priors and the training procedures of diffusion models that substantially impairs the quality of 3D generation. To address this issue, we propose a novel, unified framework that iteratively optimizes both the 3D model and the diffusion prior. Leveraging the different learnable parameters of the diffusion prior, our approach offers multiple configurations, affording various trade-offs between performance and implementation complexity. Notably, our experimental results demonstrate that our method markedly surpasses existing techniques, establishing new state-of-the-art in the realm of text-to-3D generation. Additionally, our framework yields insightful contributions to the understanding of recent score distillation methods, such as the VSD loss and CSD loss. 
+</div>    
 </div>
 </div>
 
