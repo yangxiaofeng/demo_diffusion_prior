@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: Learn to Optimize Denoising Scores for 3D Generation - A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting
+title: (ECCV 2024) Learn to Optimize Denoising Scores - A Unified and Improved Diffusion Prior for 3D Generation
 authors:
     Xiaofeng Yang<sup>*</sup><sup>1</sup>, Yiwen Chen<sup>*</sup><sup>1</sup>, Cheng Chen<sup>1</sup>, Chi Zhang<sup>1</sup>, Yi Xu<sup>2</sup>, Xulei Yang<sup>3</sup>, Fayao Liu<sup>3</sup> and Guosheng Lin<sup>1</sup>
 affiliations:
@@ -15,8 +15,8 @@ code: https://github.com/yangxiaofeng/LODS
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-We propose a unified framework aimed at enhancing the diffusion priors for 3D generation tasks. Despite the critical importance of these tasks, existing methodologies often struggle to generate high-caliber results. We begin by examining the inherent limitations in previous diffusion priors. We identify a divergence between the diffusion priors and the training procedures of diffusion models that substantially impairs the quality of 3D generation. To address this issue, we propose a novel, unified framework that iteratively optimizes both the 3D model and the diffusion prior. Leveraging the different learnable parameters of the diffusion prior, our approach offers multiple configurations, affording various trade-offs between performance and implementation complexity. Notably, our experimental results demonstrate that our method markedly surpasses existing techniques, establishing new state-of-the-art in the realm of text-to-3D generation. Furthermore, our approach exhibits impressive performance on both NeRF and the newly introduced 3D Gaussian Splatting backbones. Additionally, our framework yields insightful contributions to the understanding of recent score distillation methods, such as the VSD and DDS loss.        </div>
-    </div>
+In this paper, we propose a unified framework aimed at enhancing the diffusion priors for 3D generation tasks. Despite the critical importance of these tasks, existing methodologies often struggle to generate high-caliber results. We begin by examining the inherent limitations in previous diffusion priors. We identify a divergence between the diffusion priors and the training procedures of diffusion models that substantially impairs the quality of 3D generation. To address this issue, we propose a novel, unified framework that iteratively optimizes both the 3D model and the diffusion prior. Leveraging the different learnable parameters of the diffusion prior, our approach offers multiple configurations, affording various trade-offs between performance and implementation complexity. Notably, our experimental results demonstrate that our method markedly surpasses existing techniques, establishing new state-of-the-art in the realm of text-to-3D generation. Additionally, our framework yields insightful contributions to the understanding of recent score distillation methods, such as the VSD loss and CSD loss. 
+</div>
 </div>
 
 
@@ -87,10 +87,10 @@ We achieve state-of-the-art performance on T3Bench.
 
 ## Citation
 ```
-@article{yang2023lods,
-  title={Learn to Optimize Denoising Scores for 3D Generation},
-  author={Xiaofeng Yang, Yiwen Chen, Cheng Chen, Chi Zhang, Yi Xu, Xulei Yang, Fayao Liu and Guosheng Lin},
-  journal={arXiv:2312.04820},
-  year={2023}
+@article{yang2024lods,
+  title={Learn to Optimize Denoising Scores: A Unified and Improved Diffusion Prior for 3D Generation},
+  author={Xiaofeng Yang and Yiwen Chen and Cheng Chen and Chi Zhang and Yi Xu and Xulei Yang and Fayao Liu and Guosheng Lin},
+  journal={ECCV 2024},
+  year={2024}
 }
 ```
